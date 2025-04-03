@@ -1,4 +1,4 @@
-IMDb Movie Review Sentiment Analysis & News Article Classification
+#IMDb Movie Review Sentiment Analysis & News Article Classification
 
 📌 Overview
 This project focuses on Natural Language Processing (NLP) for text classification, including:
